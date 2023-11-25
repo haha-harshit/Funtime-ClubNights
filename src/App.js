@@ -5,7 +5,7 @@ import {BrowserRouter, Routes, Route} from "react-router-dom"
 const App = () => {
     return(
         <>
-            <h1>Starting Funtime(ClubNights)</h1>
+            <div className="underline bg-black">Starting Funtime</div>
         </>
     )
 }
